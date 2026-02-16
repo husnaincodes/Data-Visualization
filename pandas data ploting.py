@@ -7,5 +7,5 @@ plt.bar(data["Sales_Units"],data["Revenue_USD"])
 plt.xlabel("Sales_Units")
 plt.ylabel("Revenue_USD")
 
-plt.title("Weekly Sales")
+plt.title("Monthly Sales&Revenue")
 plt.show()
