@@ -1,5 +1,5 @@
 import pandas as pd
 
-data = pd.read_csv("data_visualization_dataset.csv")
+data_reading = pd.read_csv("data_visualization_dataset.csv")
 
-print(data)
+print(data_reading)
