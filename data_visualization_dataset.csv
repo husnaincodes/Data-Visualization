@@ -1,5 +1,5 @@
 Month,Sales_Units,Revenue_USD,Marketing_Spend_USD,Product_Category_A,Product_Category_B,Product_Category_C
-Jan,120,24000,5000,40,35,25
+Jan,120,24000,5000,40,35,250
 Feb,150,30000,5200,45,40,15
 Mar,170,34000,5400,50,42,8
 Apr,160,32000,5300,48,41,11
