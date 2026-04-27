@@ -5,6 +5,7 @@ language = ["python","c","c++","java","react","Ruby","JavaScript"]
 demand = [80,70,75,78,64,54,33]
 demand2 = [60,50,45,38,24,14,5]
 col = ["y","g","r","b","black"]
+
 width = 0.2
 
 p = np.arange(len(language))
