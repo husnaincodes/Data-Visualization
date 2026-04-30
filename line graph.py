@@ -8,6 +8,10 @@ a = [11,22,33,44,55,66]
 plt.plot(x, y,color="r",label=" Line Graph")
 plt.plot(x, z,color="b",label=" Line Graph")
 plt.plot(x, a,color="g",label=" Line Graph")
+
+plt.xlabel("X values")
+plt.ylabel("Y values")
+plt.title("Line Graph")
 plt.xlabel("X values")
 plt.ylabel("Y values")
 plt.title("My First Plot")
