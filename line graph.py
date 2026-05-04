@@ -13,7 +13,7 @@ plt.xlabel("X values")
 plt.ylabel("Y values")
 plt.title("Line Graph")
 plt.xlabel("X values")
-plt.ylabel("Y values")
+plt.ylabelE("Y values")
 plt.title("My First Plot")
 
 plt.legend()
